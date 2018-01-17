@@ -1,4 +1,4 @@
-README and here I am!
+README
 ======
 
 [![Gitter channel](https://badges.gitter.im/libopencm3/discuss.svg)](https://gitter.im/libopencm3/discuss)
