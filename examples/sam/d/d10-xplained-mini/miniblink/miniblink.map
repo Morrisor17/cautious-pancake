@@ -1,0 +1,296 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                              (reset_handler)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .text          0x0000000000000000        0x0 miniblink.o
+ .data          0x0000000000000000        0x0 miniblink.o
+ .bss           0x0000000000000000        0x0 miniblink.o
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x4f /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x44 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfd /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x5e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000      0x1df /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+ram              0x0000000020000000 0x0000000000001000 xrw
+rom              0x0000000000000000 0x0000000000004000 xr
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD miniblink.o
+LOAD /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv6-m/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv6-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv6-m/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv6-m/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv6-m/libc.a
+END GROUP
+
+.text           0x0000000000000000      0x160
+ *(.vectors)
+ .vectors       0x0000000000000000       0x8c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x0000000000000000                vector_table
+ *(.text*)
+ .text.startup.main
+                0x000000000000008c       0x44 miniblink.o
+                0x000000000000008c                main
+ .text.blocking_handler
+                0x00000000000000d0        0x2 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d0                rtc_isr
+                0x00000000000000d0                ptc_isr
+                0x00000000000000d0                blocking_handler
+                0x00000000000000d0                pm_isr
+                0x00000000000000d0                dmac_isr
+                0x00000000000000d0                dac_isr
+                0x00000000000000d0                evsys_isr
+                0x00000000000000d0                sysctrl_isr
+                0x00000000000000d0                tc1_isr
+                0x00000000000000d0                tc2_isr
+                0x00000000000000d0                wdt_isr
+                0x00000000000000d0                tcc0_isr
+                0x00000000000000d0                hard_fault_handler
+                0x00000000000000d0                sercom1_isr
+                0x00000000000000d0                sercom2_isr
+                0x00000000000000d0                sercom0_isr
+                0x00000000000000d0                eic_isr
+                0x00000000000000d0                reserved1_isr
+                0x00000000000000d0                adc_isr
+                0x00000000000000d0                ac_isr
+                0x00000000000000d0                nvmctrl_isr
+ .text.null_handler
+                0x00000000000000d2        0x2 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d2                null_handler
+                0x00000000000000d2                sv_call_handler
+                0x00000000000000d2                pend_sv_handler
+                0x00000000000000d2                sys_tick_handler
+                0x00000000000000d2                nmi_handler
+ .text.reset_handler
+                0x00000000000000d4       0x8c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                0x00000000000000d4                reset_handler
+                0x0000000000000160                . = ALIGN (0x4)
+ *(.rodata*)
+                0x0000000000000160                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000160        0x0
+ .glue_7        0x0000000000000160        0x0 linker stubs
+
+.glue_7t        0x0000000000000160        0x0
+ .glue_7t       0x0000000000000160        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000160        0x0
+ .vfp11_veneer  0x0000000000000160        0x0 linker stubs
+
+.v4_bx          0x0000000000000160        0x0
+ .v4_bx         0x0000000000000160        0x0 linker stubs
+
+.iplt           0x0000000000000160        0x0
+ .iplt          0x0000000000000160        0x0 miniblink.o
+
+.rel.dyn        0x0000000000000160        0x0
+ .rel.iplt      0x0000000000000160        0x0 miniblink.o
+
+.preinit_array  0x0000000000000160        0x0
+                0x0000000000000160                . = ALIGN (0x4)
+                0x0000000000000160                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000000160                __preinit_array_end = .
+
+.init_array     0x0000000000000160        0x0
+                0x0000000000000160                . = ALIGN (0x4)
+                0x0000000000000160                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0000000000000160                __init_array_end = .
+
+.fini_array     0x0000000000000160        0x0
+                0x0000000000000160                . = ALIGN (0x4)
+                0x0000000000000160                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0000000000000160                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000000000160        0x0
+                0x0000000000000160                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000000160                __exidx_end = .
+                0x0000000000000160                . = ALIGN (0x4)
+                0x0000000000000160                _etext = .
+
+.data           0x0000000020000000        0x0 load address 0x0000000000000160
+                0x0000000020000000                _data = .
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+                0x0000000000000160                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000000        0x0 load address 0x0000000000000160
+ .igot.plt      0x0000000020000000        0x0 miniblink.o
+
+.bss            0x0000000020000000        0x0 load address 0x0000000000000160
+ *(.bss*)
+ *(COMMON)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                end = .
+                0x0000000020001000                PROVIDE (_stack, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(miniblink.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x38a
+ .debug_info    0x0000000000000000       0xe3 miniblink.o
+ .debug_info    0x00000000000000e3      0x2a7 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_abbrev   0x0000000000000000      0x1ca
+ .debug_abbrev  0x0000000000000000       0x84 miniblink.o
+ .debug_abbrev  0x0000000000000084      0x146 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_loc      0x0000000000000000      0x103
+ .debug_loc     0x0000000000000000       0x27 miniblink.o
+ .debug_loc     0x0000000000000027       0xdc /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_aranges  0x0000000000000000       0x50
+ .debug_aranges
+                0x0000000000000000       0x20 miniblink.o
+ .debug_aranges
+                0x0000000000000020       0x30 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_ranges   0x0000000000000000       0x50
+ .debug_ranges  0x0000000000000000       0x30 miniblink.o
+ .debug_ranges  0x0000000000000030       0x20 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x1a4b
+ .debug_macro   0x0000000000000000       0x9d miniblink.o
+ .debug_macro   0x000000000000009d      0x826 miniblink.o
+ .debug_macro   0x00000000000008c3       0x22 miniblink.o
+ .debug_macro   0x00000000000008e5       0x4f miniblink.o
+ .debug_macro   0x0000000000000934       0x44 miniblink.o
+ .debug_macro   0x0000000000000978       0xfd miniblink.o
+ .debug_macro   0x0000000000000a75       0x5e miniblink.o
+ .debug_macro   0x0000000000000ad3      0x1df miniblink.o
+ .debug_macro   0x0000000000000cb2       0x22 miniblink.o
+ .debug_macro   0x0000000000000cd4       0xfa miniblink.o
+ .debug_macro   0x0000000000000dce       0x88 miniblink.o
+ .debug_macro   0x0000000000000e56       0x5e miniblink.o
+ .debug_macro   0x0000000000000eb4       0xd0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000000f84      0x820 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x00000000000017a4       0x34 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x00000000000017d8      0x1b1 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x0000000000001989       0x46 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ .debug_macro   0x00000000000019cf       0x7c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_line     0x0000000000000000      0x510
+ .debug_line    0x0000000000000000      0x273 miniblink.o
+ .debug_line    0x0000000000000273      0x29d /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_str      0x0000000000000000     0x49d2
+ .debug_str     0x0000000000000000     0x384e miniblink.o
+                                       0x39bf (size before relaxing)
+ .debug_str     0x000000000000384e     0x1184 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+                                       0x45a1 (size before relaxing)
+
+.comment        0x0000000000000000       0x2b
+ .comment       0x0000000000000000       0x2b miniblink.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.ARM.attributes
+                0x0000000000000000       0x32
+ .ARM.attributes
+                0x0000000000000000       0x32 miniblink.o
+ .ARM.attributes
+                0x0000000000000032       0x32 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+.debug_frame    0x0000000000000000       0x68
+ .debug_frame   0x0000000000000000       0x28 miniblink.o
+ .debug_frame   0x0000000000000028       0x40 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__fini_array_end                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+__fini_array_start                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+__init_array_end                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+__init_array_start                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+__preinit_array_end                               /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+__preinit_array_start                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+_data                                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+_data_loadaddr                                    /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+_ebss                                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+_edata                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+_stack                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ac_isr                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+adc_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+blocking_handler                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+dac_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+dmac_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+eic_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+evsys_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+hard_fault_handler                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+main                                              miniblink.o
+                                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+nmi_handler                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+null_handler                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+nvmctrl_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+pend_sv_handler                                   /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+pm_isr                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+ptc_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+reserved1_isr                                     /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+reset_handler                                     /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+rtc_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom0_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom1_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sercom2_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sv_call_handler                                   /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sys_tick_handler                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+sysctrl_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+tc1_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+tc2_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+tcc0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+vector_table                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)
+wdt_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_samd.a(vector.o)

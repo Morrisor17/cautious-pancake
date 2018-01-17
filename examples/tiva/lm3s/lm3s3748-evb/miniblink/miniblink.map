@@ -1,0 +1,540 @@
+Archive member included to satisfy reference by file (symbol)
+
+/home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                              miniblink.o (gpio_set)
+/home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                              (reset_handler)
+
+Discarded input sections
+
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .group         0x0000000000000000        0x8 miniblink.o
+ .text          0x0000000000000000        0x0 miniblink.o
+ .data          0x0000000000000000        0x0 miniblink.o
+ .bss           0x0000000000000000        0x0 miniblink.o
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .text          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .data          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .bss           0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x86e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x4f /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x44 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xfd /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x5e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000      0x1df /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xfa /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0x70 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x0000000000000000       0xe2 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .group         0x0000000000000000        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .text          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .data          0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .bss           0x0000000000000000        0x0 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000      0x86e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0x4f /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0x44 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfd /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0x5e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000      0x1df /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0x22 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000000000       0xfa /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+rom              0x0000000000000000 0x0000000000020000 xr
+ram              0x0000000020000000 0x0000000000010000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD miniblink.o
+LOAD /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7-m/libc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7-m/libnosys.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/armv7-m/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7-m/libg.a
+LOAD /usr/lib/gcc/arm-none-eabi/5.4.1/../../../arm-none-eabi/lib/armv7-m/libc.a
+END GROUP
+
+.text           0x0000000000000000      0x364
+ *(.vectors)
+ .vectors       0x0000000000000000      0x26c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                0x0000000000000000                vector_table
+ *(.text*)
+ .text.startup.main
+                0x000000000000026c       0x54 miniblink.o
+                0x000000000000026c                main
+ .text.gpio_set
+                0x00000000000002c0        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                0x00000000000002c0                gpio_set
+ .text.gpio_clear
+                0x00000000000002c8        0x8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                0x00000000000002c8                gpio_clear
+ .text.blocking_handler
+                0x00000000000002d0        0x2 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                0x00000000000002d0                ssi0_isr
+                0x00000000000002d0                timer3b_isr
+                0x00000000000002d0                pwm1_3_isr
+                0x00000000000002d0                gpiom_isr
+                0x00000000000002d0                adc1ss1_isr
+                0x00000000000002d0                uart0_isr
+                0x00000000000002d0                timer0a_isr
+                0x00000000000002d0                i2c0_isr
+                0x00000000000002d0                udmaerr_isr
+                0x00000000000002d0                udma_isr
+                0x00000000000002d0                gpiop4_isr
+                0x00000000000002d0                gpioq2_isr
+                0x00000000000002d0                gpiog_isr
+                0x00000000000002d0                blocking_handler
+                0x00000000000002d0                uart2_isr
+                0x00000000000002d0                gpioq5_isr
+                0x00000000000002d0                pwm1_0_isr
+                0x00000000000002d0                pwm0_0_isr
+                0x00000000000002d0                timer5b_isr
+                0x00000000000002d0                watchdog_isr
+                0x00000000000002d0                i2c1_isr
+                0x00000000000002d0                i2c2_isr
+                0x00000000000002d0                gpiop2_isr
+                0x00000000000002d0                wtimer5a_isr
+                0x00000000000002d0                usage_fault_handler
+                0x00000000000002d0                comp2_isr
+                0x00000000000002d0                pwm0_fault_isr
+                0x00000000000002d0                wtimer4b_isr
+                0x00000000000002d0                i2c3_isr
+                0x00000000000002d0                lpc0_isr
+                0x00000000000002d0                pwm1_2_isr
+                0x00000000000002d0                epi0_isr
+                0x00000000000002d0                pwm0_2_isr
+                0x00000000000002d0                gpiop1_isr
+                0x00000000000002d0                eth_isr
+                0x00000000000002d0                gpioq1_isr
+                0x00000000000002d0                uart6_isr
+                0x00000000000002d0                timer2b_isr
+                0x00000000000002d0                wtimer3b_isr
+                0x00000000000002d0                fan0_isr
+                0x00000000000002d0                adc1ss3_isr
+                0x00000000000002d0                qei0_isr
+                0x00000000000002d0                wtimer5b_isr
+                0x00000000000002d0                ssi3_isr
+                0x00000000000002d0                gpiof_isr
+                0x00000000000002d0                gpiol_isr
+                0x00000000000002d0                flash_isr
+                0x00000000000002d0                uart4_isr
+                0x00000000000002d0                comp0_isr
+                0x00000000000002d0                gpioq6_isr
+                0x00000000000002d0                gpiop0_isr
+                0x00000000000002d0                hard_fault_handler
+                0x00000000000002d0                gpiop6_isr
+                0x00000000000002d0                sysctl_isr
+                0x00000000000002d0                qei1_isr
+                0x00000000000002d0                timer4b_isr
+                0x00000000000002d0                gpioa_isr
+                0x00000000000002d0                usb0_isr
+                0x00000000000002d0                gpioq0_isr
+                0x00000000000002d0                uart1_isr
+                0x00000000000002d0                gpiob_isr
+                0x00000000000002d0                adc0ss3_isr
+                0x00000000000002d0                comp1_isr
+                0x00000000000002d0                gpioe_isr
+                0x00000000000002d0                wtimer0b_isr
+                0x00000000000002d0                pwm0_1_isr
+                0x00000000000002d0                wtimer2a_isr
+                0x00000000000002d0                wtimer1b_isr
+                0x00000000000002d0                wtimer2b_isr
+                0x00000000000002d0                gpioq4_isr
+                0x00000000000002d0                wtimer0a_isr
+                0x00000000000002d0                adc0ss1_isr
+                0x00000000000002d0                uart5_isr
+                0x00000000000002d0                timer1b_isr
+                0x00000000000002d0                wtimer3a_isr
+                0x00000000000002d0                i2c5_isr
+                0x00000000000002d0                can2_isr
+                0x00000000000002d0                gpion_isr
+                0x00000000000002d0                adc0ss2_isr
+                0x00000000000002d0                gpioj_isr
+                0x00000000000002d0                gpioh_isr
+                0x00000000000002d0                gpioq7_isr
+                0x00000000000002d0                mem_manage_handler
+                0x00000000000002d0                gpiod_isr
+                0x00000000000002d0                pwm0_3_isr
+                0x00000000000002d0                ssi2_isr
+                0x00000000000002d0                timer5a_isr
+                0x00000000000002d0                gpiop7_isr
+                0x00000000000002d0                gpioc_isr
+                0x00000000000002d0                gpioq3_isr
+                0x00000000000002d0                uart7_isr
+                0x00000000000002d0                pwm1_fault_isr
+                0x00000000000002d0                hibernate_isr
+                0x00000000000002d0                gpiop5_isr
+                0x00000000000002d0                i2s0_isr
+                0x00000000000002d0                adc1ss2_isr
+                0x00000000000002d0                peci0_isr
+                0x00000000000002d0                timer3a_isr
+                0x00000000000002d0                can0_isr
+                0x00000000000002d0                i2c4_isr
+                0x00000000000002d0                sysexc_isr
+                0x00000000000002d0                gpiop3_isr
+                0x00000000000002d0                timer4a_isr
+                0x00000000000002d0                can1_isr
+                0x00000000000002d0                timer1a_isr
+                0x00000000000002d0                adc0ss0_isr
+                0x00000000000002d0                ssi1_isr
+                0x00000000000002d0                wtimer4a_isr
+                0x00000000000002d0                wtimer1a_isr
+                0x00000000000002d0                bus_fault_handler
+                0x00000000000002d0                gpiok_isr
+                0x00000000000002d0                pwm1_1_isr
+                0x00000000000002d0                timer2a_isr
+                0x00000000000002d0                uart3_isr
+                0x00000000000002d0                adc1ss0_isr
+                0x00000000000002d0                timer0b_isr
+ .text.null_handler
+                0x00000000000002d2        0x2 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                0x00000000000002d2                null_handler
+                0x00000000000002d2                sv_call_handler
+                0x00000000000002d2                pend_sv_handler
+                0x00000000000002d2                debug_monitor_handler
+                0x00000000000002d2                sys_tick_handler
+                0x00000000000002d2                nmi_handler
+ .text.reset_handler
+                0x00000000000002d4       0x90 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                0x00000000000002d4                reset_handler
+                0x0000000000000364                . = ALIGN (0x4)
+ *(.rodata*)
+                0x0000000000000364                . = ALIGN (0x4)
+
+.glue_7         0x0000000000000364        0x0
+ .glue_7        0x0000000000000364        0x0 linker stubs
+
+.glue_7t        0x0000000000000364        0x0
+ .glue_7t       0x0000000000000364        0x0 linker stubs
+
+.vfp11_veneer   0x0000000000000364        0x0
+ .vfp11_veneer  0x0000000000000364        0x0 linker stubs
+
+.v4_bx          0x0000000000000364        0x0
+ .v4_bx         0x0000000000000364        0x0 linker stubs
+
+.iplt           0x0000000000000364        0x0
+ .iplt          0x0000000000000364        0x0 miniblink.o
+
+.rel.dyn        0x0000000000000364        0x0
+ .rel.iplt      0x0000000000000364        0x0 miniblink.o
+
+.preinit_array  0x0000000000000364        0x0
+                0x0000000000000364                . = ALIGN (0x4)
+                0x0000000000000364                __preinit_array_start = .
+ *(.preinit_array)
+                0x0000000000000364                __preinit_array_end = .
+
+.init_array     0x0000000000000364        0x0
+                0x0000000000000364                . = ALIGN (0x4)
+                0x0000000000000364                __init_array_start = .
+ *(SORT(.init_array.*))
+ *(.init_array)
+                0x0000000000000364                __init_array_end = .
+
+.fini_array     0x0000000000000364        0x0
+                0x0000000000000364                . = ALIGN (0x4)
+                0x0000000000000364                __fini_array_start = .
+ *(.fini_array)
+ *(SORT(.fini_array.*))
+                0x0000000000000364                __fini_array_end = .
+
+.ARM.extab
+ *(.ARM.extab*)
+
+.ARM.exidx      0x0000000000000364        0x0
+                0x0000000000000364                __exidx_start = .
+ *(.ARM.exidx*)
+                0x0000000000000364                __exidx_end = .
+                0x0000000000000364                . = ALIGN (0x4)
+                0x0000000000000364                _etext = .
+
+.data           0x0000000020000000        0x0 load address 0x0000000000000364
+                0x0000000020000000                _data = .
+ *(.data*)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _edata = .
+                0x0000000000000364                _data_loadaddr = LOADADDR (.data)
+
+.igot.plt       0x0000000020000000        0x0 load address 0x0000000000000364
+ .igot.plt      0x0000000020000000        0x0 miniblink.o
+
+.bss            0x0000000020000000        0x0 load address 0x0000000000000364
+ *(.bss*)
+ *(COMMON)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                _ebss = .
+
+/DISCARD/
+ *(.eh_frame)
+                0x0000000020000000                . = ALIGN (0x4)
+                0x0000000020000000                end = .
+                0x0000000020010000                PROVIDE (_stack, (ORIGIN (ram) + LENGTH (ram)))
+OUTPUT(miniblink.elf elf32-littlearm)
+
+.debug_info     0x0000000000000000      0x4ae
+ .debug_info    0x0000000000000000      0x10e miniblink.o
+ .debug_info    0x000000000000010e       0xf8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_info    0x0000000000000206      0x2a8 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_abbrev   0x0000000000000000      0x27c
+ .debug_abbrev  0x0000000000000000       0xbb miniblink.o
+ .debug_abbrev  0x00000000000000bb       0x7b /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_abbrev  0x0000000000000136      0x146 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_loc      0x0000000000000000      0x171
+ .debug_loc     0x0000000000000000       0x92 miniblink.o
+ .debug_loc     0x0000000000000092       0xdf /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_aranges  0x0000000000000000       0x78
+ .debug_aranges
+                0x0000000000000000       0x20 miniblink.o
+ .debug_aranges
+                0x0000000000000020       0x28 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_aranges
+                0x0000000000000048       0x30 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_ranges   0x0000000000000000       0x60
+ .debug_ranges  0x0000000000000000       0x28 miniblink.o
+ .debug_ranges  0x0000000000000028       0x18 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_ranges  0x0000000000000040       0x20 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_macro    0x0000000000000000     0x18a9
+ .debug_macro   0x0000000000000000       0xa2 miniblink.o
+ .debug_macro   0x00000000000000a2      0x86e miniblink.o
+ .debug_macro   0x0000000000000910       0x22 miniblink.o
+ .debug_macro   0x0000000000000932       0x4f miniblink.o
+ .debug_macro   0x0000000000000981       0x44 miniblink.o
+ .debug_macro   0x00000000000009c5       0xfd miniblink.o
+ .debug_macro   0x0000000000000ac2       0x5e miniblink.o
+ .debug_macro   0x0000000000000b20      0x1df miniblink.o
+ .debug_macro   0x0000000000000cff       0x22 miniblink.o
+ .debug_macro   0x0000000000000d21       0xfa miniblink.o
+ .debug_macro   0x0000000000000e1b       0xd0 miniblink.o
+ .debug_macro   0x0000000000000eeb       0x70 miniblink.o
+ .debug_macro   0x0000000000000f5b       0xe2 miniblink.o
+ .debug_macro   0x000000000000103d       0x93 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_macro   0x00000000000010d0       0xd1 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x00000000000011a1       0x58 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x00000000000011f9      0x3a1 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x000000000000159a       0x6a /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ .debug_macro   0x0000000000001604      0x2a5 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_line     0x0000000000000000      0x63f
+ .debug_line    0x0000000000000000      0x224 miniblink.o
+ .debug_line    0x0000000000000224      0x18e /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_line    0x00000000000003b2      0x28d /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_str      0x0000000000000000     0x7165
+ .debug_str     0x0000000000000000     0x4296 miniblink.o
+                                       0x43ff (size before relaxing)
+ .debug_str     0x0000000000004296       0xd9 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                                       0x3c8b (size before relaxing)
+ .debug_str     0x000000000000436f     0x2df6 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+                                       0x6413 (size before relaxing)
+
+.comment        0x0000000000000000       0x2b
+ .comment       0x0000000000000000       0x2b miniblink.o
+                                         0x2c (size before relaxing)
+ .comment       0x000000000000002b       0x2c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .comment       0x000000000000002b       0x2c /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.ARM.attributes
+                0x0000000000000000       0x33
+ .ARM.attributes
+                0x0000000000000000       0x33 miniblink.o
+ .ARM.attributes
+                0x0000000000000033       0x33 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .ARM.attributes
+                0x0000000000000066       0x33 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+.debug_frame    0x0000000000000000       0x98
+ .debug_frame   0x0000000000000000       0x28 miniblink.o
+ .debug_frame   0x0000000000000028       0x30 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+ .debug_frame   0x0000000000000058       0x40 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+
+Cross Reference Table
+
+Symbol                                            File
+__fini_array_end                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+__fini_array_start                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+__init_array_end                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+__init_array_start                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+__preinit_array_end                               /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+__preinit_array_start                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+_data                                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+_data_loadaddr                                    /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+_ebss                                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+_edata                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+_stack                                            /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc0ss0_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc0ss1_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc0ss2_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc0ss3_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc1ss0_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc1ss1_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc1ss2_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+adc1ss3_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+blocking_handler                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+bus_fault_handler                                 /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+can0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+can1_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+can2_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+comp0_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+comp1_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+comp2_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+debug_monitor_handler                             /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+epi0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+eth_isr                                           /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+fan0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+flash_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpio_clear                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                                                  miniblink.o
+gpio_set                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(gpio.o)
+                                                  miniblink.o
+gpioa_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiob_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioc_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiod_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioe_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiof_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiog_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioh_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioj_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiok_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiol_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiom_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpion_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop0_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop1_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop2_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop3_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop4_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop5_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop6_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpiop7_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq0_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq1_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq2_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq3_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq4_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq5_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq6_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+gpioq7_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+hard_fault_handler                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+hibernate_isr                                     /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c1_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c2_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c3_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c4_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2c5_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+i2s0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+lpc0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+main                                              miniblink.o
+                                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+mem_manage_handler                                /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+nmi_handler                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+null_handler                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+peci0_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pend_sv_handler                                   /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm0_0_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm0_1_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm0_2_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm0_3_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm0_fault_isr                                    /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm1_0_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm1_1_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm1_2_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm1_3_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+pwm1_fault_isr                                    /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+qei0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+qei1_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+reset_handler                                     /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ssi0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ssi1_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ssi2_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+ssi3_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+sv_call_handler                                   /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+sys_tick_handler                                  /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+sysctl_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+sysexc_isr                                        /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer0a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer0b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer1a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer1b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer2a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer2b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer3a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer3b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer4a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer4b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer5a_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+timer5b_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart0_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart1_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart2_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart3_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart4_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart5_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart6_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+uart7_isr                                         /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+udma_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+udmaerr_isr                                       /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+usage_fault_handler                               /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+usb0_isr                                          /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+vector_table                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+watchdog_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer0a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer0b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer1a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer1b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer2a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer2b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer3a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer3b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer4a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer4b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer5a_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
+wtimer5b_isr                                      /home/ryan/Desktop/libopencm3/libopencm3-examples/libopencm3/lib/libopencm3_lm3s.a(vector.o)
